@@ -10,14 +10,14 @@ Follow the steps below to set up and run the project locally.
 git clone https://github.com/Aashiq1605/Im_frontend.git influencer-platform-landing_
 
 
-### 2. Navigate to the Project Folder
+#### 2. Navigate to the Project Folder
  cd influencer-platform-landing_
 
-### 3. Install Dependencies
+##### 3. Install Dependencies
 
 npm install
 
-### 4. Start the Development Server
+###### 4. Start the Development Server
 
 npm run dev
 
